@@ -10,7 +10,7 @@
 
 using namespace std;
 
-// function Heading 
+//function Heading 
 namespace ariel{
     string mat(int num1, int num2, char c1, char c2);
 };
