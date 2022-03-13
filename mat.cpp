@@ -11,7 +11,7 @@
 
 using namespace std;
 
-// mat function
+//mat function
 string ariel::mat(int num1, int num2, char c1, char c2) {
     return " ";
 }
