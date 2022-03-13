@@ -160,5 +160,6 @@ TEST_CASE("Bad input - illegal inputs!")
     CHECK_THROWS(mat('$', 5, 7, '#'));
     CHECK_THROWS(mat('$', 8, '@', 11));
     CHECK_THROWS(mat('$', 8, 7, 11));
+    CHECK_THROWS(mat(2, 8, 7, '#'));
     CHECK_THROWS(mat(1, 5, 7, 11));
 }
