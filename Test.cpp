@@ -2,7 +2,7 @@
  * Unit tests.
  *
  * AUTHORS: Eyad Amer
- * Date: 2021-03
+ * Date:  2021-03
  */
 
 #include "doctest.h"
